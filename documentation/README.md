@@ -81,7 +81,8 @@ Kelompok juga mencatat umur, frekuensi pemakaian bahasa Jawa, dan tingkat kelanc
 | Language/Dialect | Jawa-Ngoko, Jawa-Krama, Jawa-Campur, Jawa-Indonesia |
 | Topic | Kode topik |
 | Event | none, noise, overlap, laughter, breath, other |
-| Catatan, Status | Catatan anotator dan status (Draft, Review, Final) |
+| Anotator | Nama anotator segmen |
+| Catatan | Catatan anotator |
  
 Aturan segmentasi:
 - Satu segmen berisi satu ujaran (utterance) yang utuh.
