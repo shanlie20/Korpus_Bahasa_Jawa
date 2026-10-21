@@ -11,21 +11,24 @@ Kelompok 7
 | Naomi Risaka Sitorus | 13523122 |
 
 ## Deskripsi
-Korpus *spontaneous speech* bahasa Jawa dari 10 penutur, dikumpulkan untuk Tugas Besar Fase 1 Pemrosesan Ucapan 2206. Korpus ini disiapkan sebagai data untuk pengembangan *Automatic Speech Recognition* (ASR) bahasa Jawa pada fase berikutnya.
+Korpus *spontaneous speech* bahasa Jawa dari 10 penutur dengan durasi total 1,99 jam, dikumpulkan untuk Tugas Besar Fase 1 IF4071 Pemrosesan Ucapan. Korpus ini disiapkan sebagai data untuk pengembangan *Automatic Speech Recognition* (ASR) bahasa Jawa pada fase berikutnya.
 
 ## Struktur Folder
 ```
 Korpus_Bahasa_Jawa/
-├── audio/
-│   ├── S01/ ... S10/          # rekaman WAV per penutur
+├── audio/                     # rekaman WAV per penutur
+│   ├── S01/ 
+│   ├── ...
+│   └── S10/         
 ├── metadata/
 │   └── metadata.csv
 ├── annotation/
 │   └── annotation.csv
 ├── consent/
 │   └── consent_form/          # template
-└── documentation/
-   └── README.md
+├── documentation/
+│  └── README.md
+└── script/
 ```
 
 ## Penamaan File
