@@ -1,0 +1,150 @@
+File,Speaker,Age,Gender,Dialect,Frequency,Proficiency,Topic ,Duration,Environment,Quality
+S01_T01_001.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T01,69.33,Indoor,Good
+S01_T01_002.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T01,38.8,Indoor,Good
+S01_T01_003.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T01,53,Indoor,Acceptable
+S01_T01_004.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T01,34.86,Indoor,Good
+S01_T01_005.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T01,34.34,Indoor,Good
+S01_T03_001.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T03,36.62,Indoor,Good
+S01_T03_002.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T03,47.82,Indoor,Good
+S01_T03_003.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T03,64.99,Indoor,Good
+S01_T03_004.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T03,45.92,Indoor,Good
+S01_T03_005.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T03,64.75,Indoor,Good
+S01_T07_001.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T07,66.06,Indoor,Good
+S01_T07_002.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T07,79.28,Indoor,Good
+S01_T07_003.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T07,37.82,Indoor,Good
+S01_T07_004.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T07,42.76,Indoor,Good
+S01_T07_005.wav,S01,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T07,41.26,Indoor,Good
+S02_T01_001.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T01,84.7,Indoor,Good
+S02_T01_002.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T01,54.25,Indoor,Good
+S02_T01_003.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T01,73.52,Indoor,Good
+S02_T01_004.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T01,61.96,Indoor,Good
+S02_T02_001.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T02,37.83,Indoor,Good
+S02_T02_002.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T02,37.24,Indoor,Good
+S02_T02_003.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T02,39.02,Indoor,Good
+S02_T02_004.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T02,41.09,Indoor,Good
+S02_T02_005.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T02,40.94,Indoor,Good
+S04_T04_001.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T04,44.9,Indoor,Good
+S02_T04_002.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T04,42.61,Indoor,Good
+S02_T04_003.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T04,97.08,Indoor,Good
+S02_T04_004.wav,S02,21,M,Surakarta-Yogyakarta,Jarang,Baik,T04,66.53,Indoor,Good
+S03_T01_001.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T01,63.32,Indoor,Good
+S03_T01_002.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T01,29.34,Indoor,Good
+S03_T01_003.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T01,26.87,Indoor,Good
+S03_T01_004.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T01,31.78,Indoor,Good
+S03_T01_005.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T01,27.65,Indoor,Good
+S03_T04_001.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T04,43.07,Indoor,Good
+S03_T04_002.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T04,28.84,Indoor,Good
+S03_T04_003.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T04,52.97,Indoor,Good
+S03_T04_004.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T04,31.78,Indoor,Good
+S03_T04_005.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T04,27.65,Indoor,Good
+S03_T05_001.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T05,40.15,Indoor,Good
+S03_T05_002.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T05,17.68,Indoor,Good
+S03_T05_003.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T05,73.2,Indoor,Good
+S03_T05_004.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T05,93.14,Indoor,Good
+S03_T05_005.wav,S03,20,F,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Tidak bisa,T05,38.33,Indoor,Good
+S04_T02_001.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T02,61.25,Indoor,Good
+S04_T02_002.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T02,32.4,Indoor,Good
+S04_T02_003.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T02,36.24,Indoor,Good
+S04_T02_004.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T02,62.14,Indoor,Good
+S04_T02_005.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T02,49.59,Indoor,Good
+S04_T02_006.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T02,43.63,Indoor,Acceptable
+S04_T03_001.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T03,49.9,Indoor,Good
+S04_T03_002.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T03,22.79,Indoor,Good
+S04_T03_003.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T03,40.1,Indoor,Good
+S04_T03_004.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T03,66.86,Indoor,Acceptable
+S04_T03_005.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T03,73.51,Indoor,Good
+S04_T03_006.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T03,43.36,Indoor,Acceptable
+S04_T05_001.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T05,45.01,Indoor,Good
+S04_T05_002.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T05,35.58,Indoor,Acceptable
+S04_T05_003.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T05,46.11,Indoor,Good
+S04_T05_004.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T05,110.92,Indoor,Acceptable
+S04_T05_005.wav,S04,20,M,Surakarta-Yogyakarta,Setiap hari,Baik,T05,54.34,Indoor,Good
+S05_T01_001.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T01,74.29,Indoor,Acceptable
+S05_T01_002.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T01,41.92,Indoor,Acceptable
+S05_T01_003.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T01,50.76,Indoor,Good
+S05_T01_004.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T01,25.58,Indoor,Good
+S05_T01_005.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T01,21.28,Indoor,Good
+S05_T02_001.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T02,50.91,Indoor,Good
+S05_T02_002.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T02,14.49,Indoor,Good
+S05_T02_003.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T02,41.8,Indoor,Good
+S05_T02_004.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T02,33.17,Indoor,Good
+S05_T02_005.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T02,44.09,Indoor,Good
+S05_T06_001.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T06,45.71,Indoor,Acceptable
+S05_T06_002.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T06,47.92,Indoor,Good
+S05_T06_003.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T06,31.83,Indoor,Good
+S05_T06_004.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T06,87.37,Indoor,Acceptable
+S05_T06_005.wav,S05,19,M,Surakarta-Yogyakarta,Kadang-kadang ,Cukup,T06,28.42,Indoor,Acceptable
+S06_T04_001.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T04,45.64,Indoor,Acceptable
+S06_T04_002.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T04,37.43,Indoor,Acceptable
+S06_T04_003.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T04,93.72,Indoor,Acceptable
+S06_T04_004.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T04,45.83,Indoor,Acceptable
+S06_T04_005.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T04,46.41,Indoor,Good
+S06_T06_001.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T06,81.63,Indoor,Acceptable
+S06_T06_002.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T06,32.53,Indoor,Acceptable
+S06_T06_003.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T06,93.72,Indoor,Acceptable
+S06_T06_004.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T06,59.83,Indoor,Acceptable
+S06_T06_005.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T06,29.03,Indoor,Acceptable
+S06_T07_001.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T07,71.95,Indoor,Acceptable
+S06_T07_002.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T07,80.56,Indoor,Acceptable
+S06_T07_003.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T07,58.01,Indoor,Acceptable
+S06_T07_004.wav,S06,21,M,Surakarta-Yogyakarta,Kadang-kadang,Baik,T07,59.2,Indoor,Acceptable
+S07_T02_001.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T02,29.69,Indoor,Good
+S07_T02_002.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T02,36.66,Indoor,Good
+S07_T02_003.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T02,35.49,Indoor,Good
+S07_T02_004.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T02,26.6,Indoor,Good
+S07_T02_005.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T02,36.53,Indoor,Good
+S07_T02_006.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T02,36.07,Indoor,Good
+S07_T02_007.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T02,32.42,Indoor,Good
+S07_T05_001.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T05,40.16,Indoor,Good
+S07_T05_002.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T05,39.02,Indoor,Good
+S07_T05_003.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T05,43.63,Indoor,Good
+S07_T05_004.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T05,50.48,Indoor,Good
+S07_T05_005.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T05,34.77,Indoor,Good
+S07_T07_001.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T07,38.93,Indoor,Good
+S07_T07_002.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T07,33.58,Indoor,Good
+S07_T07_003.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T07,29.2,Indoor,Good
+S07_T07_004.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T07,35.48,Indoor,Good
+S07_T07_005.wav,S07,22,M,Tidak menggunakan Bahasa Jawa,Hampir tidak pernah,Terbatas,T07,33.18,Indoor,Good
+S08_T01_001.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T01,56.17,Indoor,Acceptable
+S08_T01_002.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T01,25.4,Indoor,Acceptable
+S08_T01_003.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T01,46.9,Indoor,Acceptable
+S08_T01_004.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T01,27.93,Indoor,Acceptable
+S08_T01_005.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T01,39.49,Indoor,Acceptable
+S08_T01_006.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T01,31.18,Indoor,Acceptable
+S08_T03_001.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T03,21.82,Indoor,Acceptable
+S08_T03_002.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T03,20.97,Indoor,Good
+S08_T03_003.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T03,43.7,Indoor,Acceptable
+S08_T03_004.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T03,46.69,Indoor,Acceptable
+S08_T03_005.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T03,40,Indoor,Acceptable
+S08_T03_006.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T03,35.89,Indoor,Good
+S08_T06_001.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T06,29.13,Indoor,Acceptable
+S08_T06_002.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T06,51.26,Indoor,Acceptable
+S08_T06_003.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T06,63.29,Indoor,Acceptable
+S08_T06_004.wav,S08,22,F,Jawa Timur,Kadang-kadang,Sangat baik,T06,52.14,Indoor,Acceptable
+S09_T02_001.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T02,34.49,Indoor,Good
+S09_T02_002.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T02,47.83,Indoor,Good
+S09_T02_003.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T02,57.71,Indoor,Acceptable
+S09_T02_004.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T02,92.4,Indoor,Acceptable
+S09_T02_005.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T02,48.76,Indoor,Acceptable
+S09_T06_001.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T06,34.88,Indoor,Good
+S09_T06_002.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T06,58.54,Indoor,Acceptable
+S09_T06_003.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T06,84.3,Indoor,Acceptable
+S09_T06_004.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T06,37.46,Indoor,Good
+S09_T06_005.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T06,39.61,Indoor,Good
+S09_T07_001.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T07,29.45,Indoor,Acceptable
+S09_T07_002.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T07,44.5,Indoor,Acceptable
+S09_T07_003.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T07,45.04,Indoor,Good
+S09_T07_004.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T07,48.7,Indoor,Acceptable
+S09_T07_005.wav,S09,20,F,Surakarta-Yogyakarta,Setiap hari,Sangat baik,T07,51.07,Indoor,Acceptable
+S10_T03_001.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T03,58.08,Indoor,Good
+S10_T03_002.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T03,53.78,Indoor,Good
+S10_T03_003.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T03,60.89,Indoor,Good
+S10_T03_004.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T03,58.37,Indoor,Good
+S10_T04_001.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T04,65.02,Indoor,Acceptable
+S10_T04_002.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T04,42.77,Indoor,Acceptable
+S10_T04_003.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T04,49.96,Indoor,Good
+S10_T04_004.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T04,52.76,Indoor,Good
+S10_T05_001.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T05,89,Indoor,Acceptable
+S10_T05_002.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T05,60.54,Indoor,Acceptable
+S10_T05_003.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T05,55,Indoor,Acceptable
+S10_T05_004.wav,S10,21,F,Surakarta-Yogyakarta,Kadang-kadang,Cukup,T05,44.98,Indoor,Acceptable
